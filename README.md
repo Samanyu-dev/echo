@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="80" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/apple.svg" alt="Apple Invites" />
-</p>
-
 <h1 align="center">✨ ECHO</h1>
 <p align="center"><em>Where event invitation design meets cloud-native intelligence and cinematic mobile UX.</em></p>
 
